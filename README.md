@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/khalidsaifullaah?tab=repositories](https://github.com/khalidsaifullaah?tab=repositories)
 
-- 💬 Ask me about **Django, React etc**
+- 💬 Ask me about **Deep Learning, Algorithms, Data Structures etc**
 
 - 📫 How to reach me **khalid277144@gmail.com**
 
