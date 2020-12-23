@@ -109,5 +109,8 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=khalidsaifullaah&show_icons=true&count_private=true&hide_border=true" align="left" width="50%" /></div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsaifullaah&hide_border=true&layout=compact" align="right" width="49%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=khalidsaifullaah&show_icons=true&count_private=true&hide_border=true" width="45%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsaifullaah&hide_border=true&layout=compact" width="45%" align="right"/>
+</div>
+
+
