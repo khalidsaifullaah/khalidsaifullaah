@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### *<div align="center">driven by the curiosity of learning</div>*  
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=khalidsaifullaah&&style=flat-square" align="left" />
+<img src="https://komarev.com/ghpvc/?username=khalidsaifullaah&&style=flat-square" />
 </div>  
 
 - 🔭 I’m currently working on [_BOOKy: A Book Sharing Platform_](https://github.com/khalidsaifullaah/BOOKy)  
