@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=khalidsaifullaah&&style=flat-square" />
 </div>  
 
-- 🔭 I’m currently working on [_BOOKy: A Book Sharing Platform_](https://github.com/khalidsaifullaah/BOOKy)  
+- 🔭 I’m currently working on [_DALL·E Mini: A Zero-Shot Text-to-Image Generation Model_](https://github.com/borisdayma/dalle-mini)  
   
 
 - 🌱 I’m currently learning all about **_deep learning_**  
