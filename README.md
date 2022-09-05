@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ❓ Ask me about anything related to **_AI/ML, Algorithms, Data Structures etc_**  
   
 
-- 📫 How to reach me: _khalid277144@gmail.com_  
+- 📫 How to reach me: _khalids@cs.umd.edu_  
   
 
 <br/>  
